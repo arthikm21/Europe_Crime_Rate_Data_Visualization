@@ -39,7 +39,6 @@ CF (Year) =
             _YoYChange>=1,"Green",
             _YoYChange<1,"Red"
           )
-8. 
 
 
 
